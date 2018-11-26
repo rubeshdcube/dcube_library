@@ -1,0 +1,5 @@
+setup.py
+dcube.egg-info/PKG-INFO
+dcube.egg-info/SOURCES.txt
+dcube.egg-info/dependency_links.txt
+dcube.egg-info/top_level.txt
